@@ -40,7 +40,9 @@ npm install
 
 ## Usage 
 
-User opens 
+User opens deployed Burger app through the Heroku url.  User can then add a burger of his or her choosing by typing in a burger name in the "add a burger" text box.
+The burger object will then show up in the "Burgers to Eat" column.  The user will then see two buttons "Eat Me" and "Delete".  If the user clicks on "Eat Me", the burget object will then move to "Burgers Eaten".  The "Delete" button will remove the burger object entirely.
+
 
 ## Contributions
 
