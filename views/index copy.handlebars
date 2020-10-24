@@ -1,0 +1,63 @@
+<div class="container">
+  <div class="jumbotron mb-3 mt-3 text-center p-5 bg-warning">
+    <h1 class="display-4">Eat-Da-Burger!</h1>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col md-6 align-right">
+        <div class="card">
+          <div class="card-body bg-success">
+            <h2 class="font-weight-bold">Burgers to Eat!</h2>
+            <br>
+            <ul>
+              {{#each burgers}}
+              {{#unless devoured}}
+              {{> burgers/burger-block devoured=1}}
+              {{/unless}}
+              {{/each}}
+            </ul>
+          </div>
+
+         </div>  
+        </div>          
+    </div>
+    <div class="col md-6 align-left">
+       <div class="card">
+            <div class="card-body bg-danger"> 
+                <h2 class="font-weight-bold ">Burgers Eaten!</h2>
+                    <br>
+                    <ul>
+                <ul>
+                  {{#each burgers}}
+                  {{#if devoured}}
+                  {{> burgers/burger-block devoured=0}}
+                  {{/if}}
+                  {{/each}}
+                </ul>
+              </div>
+
+
+          
+              <form class="create-form">
+
+                <div class="form-group">
+                  <input type="text" id="ca" name="name">
+                </div>
+                <div class="jumbotron mb-2 text-center p-4 bg-warning">
+                  <label class="font-weight-bold">Add a Burger:</label>
+                  <textarea id="cake" rows="3"></textarea><br>
+                  <button type="submit">Eat Later</button>
+
+                </div>
+
+              </form>
+
+              <div class="text-center">
+                <a href="https://github.com/kent28808/Burger-Express-Handlebars" target="new">GitHub Repo</a>
+              </div>
+            </div>&gt;
+
+            </body>
+
+            </html>

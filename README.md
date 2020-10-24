@@ -20,7 +20,7 @@ This is a Burger application that was created using Node Express Handlebars and 
 ![Burger Express Handlebars](https://github.com/kent28808/Employee-Tracker/blob/main/Assets/Photo1.png)
 
 ## Deployed Link
-![Burgers](https://safe-lake-92338.herokuapp.com/)
+* [Burgers](https://safe-lake-92338.herokuapp.com/)
 
 ## Built With
 * [Node.js](https://nodejs.org/en/)
