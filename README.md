@@ -20,17 +20,16 @@ This is a Burger application that was created using Node Express Handlebars and 
 ![Burger Express Handlebars](https://github.com/kent28808/Employee-Tracker/blob/main/Assets/Photo1.png)
 
 ## Deployed Link
-
+![Burgers](https://safe-lake-92338.herokuapp.com/)
 
 ## Built With
-* [Bootstrap]
 * [Node.js](https://nodejs.org/en/)
 * [inquirer](https://www.npmjs.com/package/inquirer)
 * [mySQL](https://www.npmjs.com/package/mysql#performing-queries)
 * [mySQL Workbench]
-* [Heroku]
-* [Handlebars]
-* [Express]
+* [Heroku](https://dashboard.heroku.com/apps)
+* [Handlebars](https://handlebarsjs.com/)
+* [Express](https://expressjs.com/)
 
 
 ## Installation
@@ -41,7 +40,7 @@ npm install
 
 ## Usage 
 
-User runs npm start in terminal and is prompted with the options noted above.  Once options and inputs have been completed, data is added or removed from the mySQL database.
+User opens 
 
 ## Contributions
 
