@@ -17,7 +17,7 @@
 
 This is a Burger application that was created using Node Express Handlebars and our own ORM.  It uses the MVC desisng pattern, Node and mySQL to query and route datat to the app and Handlebars to generate the HTML.  This app was deployed using Heroku.
 
-![Burger Express Handlebars](https://github.com/kent28808/Employee-Tracker/blob/main/Assets/Photo1.png)
+![Burger Express Handlebars](https://github.com/kent28808/Burger-Express-Handlebars/blob/main/Photo1.png)
 
 ## Deployed Link
 * [Burgers](https://safe-lake-92338.herokuapp.com/)
