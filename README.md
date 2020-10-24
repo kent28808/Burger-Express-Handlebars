@@ -1,26 +1,6 @@
-# Express-Handlebars
+# Burger-Express-Handlebars
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg) 
-
-## Description
-
-This is a command line application that is an employee tracker.  It is capable of adding employees, departments and roles.
-It can also view and update existing employees, departments and roles.
-
-![Employee Tracker](https://github.com/kent28808/Employee-Tracker/blob/main/Assets/Photo1.png)
-
-## Deployed Link
-
-
-## Built With
-
-* [Node.js](https://nodejs.org/en/)
-* [inquirer](https://www.npmjs.com/package/inquirer)
-* [mySQL](https://www.npmjs.com/package/mysql#performing-queries)
-* [mySQL Workbench]
-* [Heroku]
-* [Handlebars]
-* [Express]
 
 ## Table of Contents
 
@@ -31,6 +11,27 @@ It can also view and update existing employees, departments and roles.
 * [License](#license)
 * [Tests](#tests)
 * [Questions](#questions)
+
+
+## Description
+
+This is a Burger application that was created using Node Express Handlebars and our own ORM.  It uses the MVC desisng pattern, Node and mySQL to query and route datat to the app and Handlebars to generate the HTML.  This app was deployed using Heroku.
+
+![Burger Express Handlebars](https://github.com/kent28808/Employee-Tracker/blob/main/Assets/Photo1.png)
+
+## Deployed Link
+
+
+## Built With
+* [Bootstrap]
+* [Node.js](https://nodejs.org/en/)
+* [inquirer](https://www.npmjs.com/package/inquirer)
+* [mySQL](https://www.npmjs.com/package/mysql#performing-queries)
+* [mySQL Workbench]
+* [Heroku]
+* [Handlebars]
+* [Express]
+
 
 ## Installation
 
